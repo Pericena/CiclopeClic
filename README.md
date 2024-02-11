@@ -5,8 +5,8 @@
 <p align="center">
   <a href="https://lpericena.blogspot.com/2024/02/ciclopeclic-generador-de-enlaces-con-ia.html">
     <img src="https://raw.githubusercontent.com/Pericena/CiclopeClic/main/img/512x512.png" width=200"/>
-     https://lpericena.blogspot.com/2024/02/ciclopeclic-generador-de-enlaces-con-ia.html
   </a>
+       https://lpericena.blogspot.com/2024/02/ciclopeclic-generador-de-enlaces-con-ia.html
 </p>
 
 
