@@ -27,6 +27,13 @@ Con una interfaz fácil de usar, CiclopeClic simplifica el proceso de generació
 [<img src="https://raw.githubusercontent.com/Pericena/CiclopeClic/main/img/screencapture/screencapture-1.png" width="250"/>](https://lpericena.blogspot.com/2021/06/smsburst-enviar-sms-desde-internet.html)
 [<img src="https://raw.githubusercontent.com/Pericena/CiclopeClic/main/img/screencapture/screencapture-2.png" width="250"/>](https://lpericena.blogspot.com/2021/06/smsburst-enviar-sms-desde-internet.html)
 
+## Video
+
+<video width="640" height="360" controls>
+  <source src="URL_DEL_VIDEO.mp4" type="video/mp4">
+  Tu navegador no admite la reproducción de video.
+</video>
+
 
 ## Descargar APK
 Para instalar CiclopeClic, Android:
