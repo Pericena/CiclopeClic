@@ -3,10 +3,11 @@
   Generador de link con IA - Campañas Phishing
      
 <p align="center">
-  <a href="https://lpericena.blogspot.com/2021/06/smsburst-enviar-sms-desde-internet.html">
+  <a href="https://lpericena.blogspot.com/2024/02/ciclopeclic-generador-de-enlaces-con-ia.html">
     <img src="https://raw.githubusercontent.com/Pericena/CiclopeClic/main/img/512x512.png" width=150"/>
   </a>
 </p>
+- https://lpericena.blogspot.com/2024/02/ciclopeclic-generador-de-enlaces-con-ia.html
 
 
 
@@ -24,8 +25,8 @@ Con una interfaz fácil de usar, CiclopeClic simplifica el proceso de generació
 
 ## Captura de pantalla
 
-[<img src="https://raw.githubusercontent.com/Pericena/CiclopeClic/main/img/screencapture/screencapture-1.png" width="250"/>](https://lpericena.blogspot.com/2021/06/smsburst-enviar-sms-desde-internet.html)
-[<img src="https://raw.githubusercontent.com/Pericena/CiclopeClic/main/img/screencapture/screencapture-2.png" width="250"/>](https://lpericena.blogspot.com/2021/06/smsburst-enviar-sms-desde-internet.html)
+[<img src="https://raw.githubusercontent.com/Pericena/CiclopeClic/main/img/screencapture/screencapture-1.png" width="250"/>](https://lpericena.blogspot.com/2024/02/ciclopeclic-generador-de-enlaces-con-ia.html)
+[<img src="https://raw.githubusercontent.com/Pericena/CiclopeClic/main/img/screencapture/screencapture-2.png" width="250"/>](https://lpericena.blogspot.com/2024/02/ciclopeclic-generador-de-enlaces-con-ia.html)
 
 ## Video
 
