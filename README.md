@@ -1,10 +1,13 @@
 # CiclopeClic
   
-  Generador de link con IA - Para ataques phishing
+  Generador de link con IA - Campañas Phishing
      
 <p align="center">
-  [<img src="https://raw.githubusercontent.com/Pericena/CiclopeClic/main/img/512x512.png" width="100"/>](https://lpericena.blogspot.com/2021/06/smsburst-enviar-sms-desde-internet.html)
+  <a href="https://lpericena.blogspot.com/2021/06/smsburst-enviar-sms-desde-internet.html">
+    <img src="https://raw.githubusercontent.com/Pericena/CiclopeClic/main/img/512x512.png" width=150"/>
+  </a>
 </p>
+
 
 
 ## ¿Qué es CiclopeClic ?
@@ -21,17 +24,18 @@ Con una interfaz fácil de usar, CiclopeClic simplifica el proceso de generació
 
 ## Captura de pantalla
 
-[<img src="https://raw.githubusercontent.com/Pericena/CiclopeClic/main/img/screencapture/screencapture-1.png" width="200"/>](https://lpericena.blogspot.com/2021/06/smsburst-enviar-sms-desde-internet.html)
-[<img src="https://raw.githubusercontent.com/Pericena/CiclopeClic/main/img/screencapture/screencapture-2.png" width="200"/>](https://lpericena.blogspot.com/2021/06/smsburst-enviar-sms-desde-internet.html)
+[<img src="https://raw.githubusercontent.com/Pericena/CiclopeClic/main/img/screencapture/screencapture-1.png" width="250"/>](https://lpericena.blogspot.com/2021/06/smsburst-enviar-sms-desde-internet.html)
+[<img src="https://raw.githubusercontent.com/Pericena/CiclopeClic/main/img/screencapture/screencapture-2.png" width="250"/>](https://lpericena.blogspot.com/2021/06/smsburst-enviar-sms-desde-internet.html)
+
 
 ## Descargar APK
-- Para instalar CiclopeClic, Android:
+Para instalar CiclopeClic, Android:
 [Enlace a Releases](https://github.com/Pericena/CiclopeClic/releases)
 [<img src="https://cdn-icons-png.flaticon.com/512/888/888839.png" width="24"/> Descargar APK](https://github.com/Pericena/CiclopeClic/releases/download/apk/CiclopeClic_1_1.0.apk)
 
 
 ### Instalación 
-- Para instalar CiclopeClic, sigue estos sencillos pasos:
+Para instalar CiclopeClic, sigue estos sencillos pasos:
   
 ### Windows 7/10/11
 ```
