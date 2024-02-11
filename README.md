@@ -6,7 +6,6 @@
   <a href="https://lpericena.blogspot.com/2024/02/ciclopeclic-generador-de-enlaces-con-ia.html">
     <img src="https://raw.githubusercontent.com/Pericena/CiclopeClic/main/img/512x512.png" width=200"/>
   </a>
-       https://lpericena.blogspot.com/2024/02/ciclopeclic-generador-de-enlaces-con-ia.html
 </p>
 
 
@@ -22,6 +21,8 @@ Con una interfaz fácil de usar, CiclopeClic simplifica el proceso de generació
 - Personalización Avanzada:
   Adapta tus mensajes a las necesidades específicas de tus campañas de seguridad, con opciones de personalización avanzadas.
 ¡Potencia tu estrategia de ciberseguridad con CiclopeClic y protege tus activos digitales hoy mismo!
+
+       https://lpericena.blogspot.com/2024/02/ciclopeclic-generador-de-enlaces-con-ia.html
 
 ## Captura de pantalla
 
