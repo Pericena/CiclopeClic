@@ -1,6 +1,5 @@
-# CiclopeClic: The Future of Ethical Phishing Campaigns with AI 🚀
-  
-  Generador de link con IA - Campañas Phishing
+# CiclopeClic
+  The Future of Ethical Phishing Campaigns with AI 🚀
      
 <p align="center">
   <a href="https://lpericena.blogspot.com/2024/02/ciclopeclic-generador-de-enlaces-con-ia.html">
