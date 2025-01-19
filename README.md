@@ -57,8 +57,9 @@ For Android
 Install CiclopeClic and start protecting your digital assets now!
 
 - [Enlace a Releases](https://github.com/Pericena/CiclopeClic/releases)
-- [<img src="https://cdn-icons-png.flaticon.com/512/888/888839.png" width="24"/> Descargar APK v1.1](https://github.com/Pericena/CiclopeClic/releases/download/apk/CiclopeClic_1_1.0.apk)
-- [<img src="https://cdn-icons-png.flaticon.com/512/888/888839.png" width="24"/> Descargar APK v1.2](https://github.com/Pericena/CiclopeClic/releases/download/apk%2Capp/CiclopeClic_1_1.0.apk)
+- [<img src="https://cdn-icons-png.flaticon.com/512/888/888839.png" width="24"/> Descargar APK v1](https://github.com/Pericena/CiclopeClic/releases/download/apk/CiclopeClic_1_1.0.apk)
+- [<img src="https://cdn-icons-png.flaticon.com/512/888/888839.png" width="24"/> Descargar APK v2](https://github.com/Pericena/CiclopeClic/releases/download/apk%2Capp/CiclopeClic_1_1.0.apk)
+- [<img src="https://cdn-icons-png.flaticon.com/512/888/888839.png" width="24"/> Descargar APK v3](https://github.com/Pericena/CiclopeClic/releases/download/v3/CiclopeClipV3.apk)
 
 
 
