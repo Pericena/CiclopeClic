@@ -107,6 +107,17 @@ git clone https://github.com/Pericena/CiclopeClic.git
 cd CiclopeClic
 python3 ciclope.py
 ```
+
+## Support us on GitHub Sponsors
+
+If you find CiclopeClic useful, consider supporting us on GitHub Sponsors. Your help allows us to continue developing new features, improving the tool, and promoting cybersecurity education!
+
+### 🚀 Benefits for Sponsors:
+Recognition: We will mention you in the project's acknowledgements section.
+Early Access: Try new features before anyone else.
+Personal Support: Receive direct help to integrate CiclopeClic into your processes.
+- https://github.com/sponsors/Pericena
+
 ## Acknowledgments 🙏
 Thank you for being part of CiclopeClic! Your support drives us to keep improving and bringing digital security to new heights. If you have any questions or need assistance, feel free to reach out!
 Follow me on social media for more updates and news:
